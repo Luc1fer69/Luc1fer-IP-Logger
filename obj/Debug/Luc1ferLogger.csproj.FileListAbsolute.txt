@@ -1,0 +1,9 @@
+C:\Users\Bartosz\source\repos\DiscordHaxx\DiscordHaxx\bin\Debug\Luc1ferLogger.exe.config
+C:\Users\Bartosz\source\repos\DiscordHaxx\DiscordHaxx\bin\Debug\Luc1ferLogger.exe
+C:\Users\Bartosz\source\repos\DiscordHaxx\DiscordHaxx\bin\Debug\Luc1ferLogger.pdb
+C:\Users\Bartosz\source\repos\DiscordHaxx\DiscordHaxx\obj\Debug\Luc1ferLogger.csprojAssemblyReference.cache
+C:\Users\Bartosz\source\repos\DiscordHaxx\DiscordHaxx\obj\Debug\Luc1ferLogger.Properties.Resources.resources
+C:\Users\Bartosz\source\repos\DiscordHaxx\DiscordHaxx\obj\Debug\Luc1ferLogger.csproj.GenerateResource.cache
+C:\Users\Bartosz\source\repos\DiscordHaxx\DiscordHaxx\obj\Debug\Luc1ferLogger.csproj.CoreCompileInputs.cache
+C:\Users\Bartosz\source\repos\DiscordHaxx\DiscordHaxx\obj\Debug\Luc1ferLogger.exe
+C:\Users\Bartosz\source\repos\DiscordHaxx\DiscordHaxx\obj\Debug\Luc1ferLogger.pdb
